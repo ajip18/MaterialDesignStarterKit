@@ -4,6 +4,7 @@
     <color name="primaryColorLight">#FFCDD2</color>
     <color name="primaryColorDark">#D32F2F</color>
     <color name="accentColor">#607D8B</color>
+    <color name="accentColorPressed">#ff4c6977</color>
     <color name="primaryTextColor">#212121</color>
     <color name="secondaryTextColor">#727272</color>
 </resources>
